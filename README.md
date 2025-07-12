@@ -53,12 +53,3 @@ Listings priced above $10,000 are clear outliers and require filtering for meani
 Properties with high availability and consistent reviews often have competitive pricing and attract more guests.
 A number of hosts operate multiple listings, indicating a shift toward commercial-style hosting.
 
-# Recommendations
-For Guests:
-Opt for listings with high availability and solid review history for a better experience.
-Consider private rooms in Brooklyn for more affordable stays without compromising location.
-# For Hosts:
-Keep calendars updated and actively engage with guest reviews to improve listing performance.
-Analyze competitor pricing within the same borough to remain competitive.
-
-
